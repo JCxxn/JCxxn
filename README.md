@@ -12,6 +12,10 @@
 <img src="https://img.shields.io/badge/xcode-147EFB?style=for-the-badge&logo=xcode&logoColor=white"> <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
 
 
+### 📖 Education
+- Tech!t LikeLion iOS App School, 2nd / 2023.5 ~ 2023.10
+- SeJong University, Department of Computer Engineering / 2020.3 ~ 2023.2
+
 
 
 <!--
