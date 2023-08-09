@@ -25,9 +25,11 @@
 - SeJong University, Department of Computer Engineering / 2020.3 ~ 2023.2
 
 
-<div style="text-align: left;"> <img src="https://github-readme-stats.vercel.app/api?username=JCxxn&bg_color=60,000000,&title_color=000000&text_color=000000"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JCxxn&layout=compact&bg_color=60,000000,&title_color=000000&text_color=000000"/> 
+<div style="text-align: left;"> 
+    <img src="https://github-readme-stats.vercel.app/api?username=JCxxn&bg_color=60,000000,&title_color=000000&text_color=000000"/>
 </div>
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jongchan7298)](https://solved.ac/jongchan7298/)
 
 
 
