@@ -1,5 +1,12 @@
-### Hi there 👋
-
+<div align= "center">
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=72d5ee&height=180&text=Chanios👋&animation=&fontColor=000000&fontSize=40" />
+    </div>
+    <div style="text-align: left;"> 
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">  </h2>  
+    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;">  </div> 
+    </div>
+   
+    
 
 ### 🛠️ Skill & Tools
 
@@ -9,12 +16,18 @@
 
 <img src="https://img.shields.io/badge/visualstudio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white"> <img src="https://img.shields.io/badge/visualstudiocode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"> <img src="https://img.shields.io/badge/androidstudio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white">
 <br>
-<img src="https://img.shields.io/badge/xcode-147EFB?style=for-the-badge&logo=xcode&logoColor=white"> <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
+<img src="https://img.shields.io/badge/xcode-147EFB?style=for-the-badge&logo=xcode&logoColor=white"> <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white"> <img src="https://img.shields.io/badge/figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
+
 
 
 ### 📖 Education
 - Tech!t LikeLion iOS App School, 2nd / 2023.5 ~ 2023.10
 - SeJong University, Department of Computer Engineering / 2020.3 ~ 2023.2
+
+
+<div style="text-align: left;"> <img src="https://github-readme-stats.vercel.app/api?username=JCxxn&bg_color=60,000000,&title_color=000000&text_color=000000"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JCxxn&layout=compact&bg_color=60,000000,&title_color=000000&text_color=000000"/> 
+</div>
 
 
 
