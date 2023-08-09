@@ -7,8 +7,17 @@
 </div>
    
 
-## 🙏 I'm ...
+# 🙏 I'm ...
+## iOS Developer JJJJJJJJJJJJJJJunior😢
 
+### want
+- A developer who communicates well with many people and leads everyone
+
+### adventage
+- leadership
+- good communicator
+- passionate
+- humorous
 
 
 ## 🛠️ Skill & Tools
@@ -29,7 +38,12 @@
 
 
 
-## Performance
+## 💁🏻 About
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jongchan7298@gmail.com)](jongchan7298@gmail.com)
+
+
+
+## 🏃‍♂️ Performance
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jongchan7298)](https://solved.ac/jongchan7298/)
 
 <div style="text-align: left;"> 
