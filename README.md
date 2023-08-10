@@ -6,7 +6,7 @@
     <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;">  </div> 
 </div>
    
-
+<!--
 # 🙏 I'm ...
 ## iOS Developer JJJJJJJJJJJJJJJunior😢
 
@@ -18,7 +18,7 @@
 - good communicator
 - passionate
 - humorous
-
+-->
 
 ## 🛠️ Skill & Tools
 
