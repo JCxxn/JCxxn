@@ -38,7 +38,7 @@
 
 
 
-## 💁🏻 About
+## 💁🏻 Contact me
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jongchan7298@gmail.com)](jongchan7298@gmail.com)
 
 
