@@ -1,4 +1,4 @@
-<!--
+
 <div align= "center">
     <img src="https://capsule-render.vercel.app/api?type=waving&color=72d5ee&height=180&text=Chanios👋&animation=&fontColor=000000&fontSize=40" />
 </div>
@@ -7,7 +7,7 @@
     <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;">  </div> 
 </div>
    
-
+<!--
 # 🙏 I'm ...
 ## iOS Developer JJJJJJJJJJJJJJJunior😢
 
@@ -20,7 +20,7 @@
 - passionate
 - humorous
 
-
+-->
 ## 🛠️ Skill & Tools
 
 <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white"> <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=C++&logoColor=white"> <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white">
@@ -51,7 +51,7 @@
     <img src="https://github-readme-stats.vercel.app/api?username=JCxxn&bg_color=60,000000,&title_color=000000&text_color=000000"/>
 </div>
 
--->
+
 
 
 
