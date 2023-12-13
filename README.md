@@ -19,7 +19,7 @@
 - good communicator
 - passionate
 - humorous
-
+-->
 
 ## 🛠️ Skill & Tools
 
@@ -43,7 +43,7 @@
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jongchan7298@gmail.com)](jongchan7298@gmail.com)
 
 
-
+<!--
 ## 🏃‍♂️ Performance
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jongchan7298)](https://solved.ac/jongchan7298/)
 
